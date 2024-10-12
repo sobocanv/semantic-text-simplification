@@ -4,7 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Semantic Text Simplification
 
-Final project for the Building AI course
+Final project for the Building AI course.
 
 ## Summary
 
