@@ -53,4 +53,3 @@ The project could evolve by allowing users to customize the degree of simplifica
 * Data from the Wikipedia Simple English corpus
 * Models built using Hugging Face's Transformer library
   <br>For example: [Wikipedia Simple English](https://simple.wikipedia.org/wiki/Main_Page) / [Hugging Face Transformers](https://huggingface.co/transformers)
-* etc
