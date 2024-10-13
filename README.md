@@ -14,7 +14,7 @@ This project aims to simplify complex sentences into more readable versions with
 
 Understanding dense or complex language is a challenge for many, including students, non-native speakers, and individuals with cognitive difficulties. Manually simplifying text is time-consuming and requires very specific lingustic skills. This project aims to automate this process using AI, making all information more accessible.
 
-## How is it used?
+## Where can this tool be used?
 
 The tool can be used in educational settings, legal or medical contexts, or by anyone reading dense, technical materials. Users input a piece of text, and the model simplifies it while preserving its meaning. Ideally, this could be integrated into a web app, browser extension, or word processor plugin.
 
