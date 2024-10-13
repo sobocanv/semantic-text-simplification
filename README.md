@@ -51,10 +51,10 @@ The project's success depends on high-quality datasets and robust AI models. Som
 
 ### Data Sources:
 
-* **Wikipedia Simple English Corpus**: This dataset contains sentences from Wikipedia articles in both their original and simplified forms. It is an excellent source for training models on text simplification.
-* **Newsela Corpus**: Newsela is a platform providing news articles rewritten at different reading levels, making it a valuable resource for training simplification models, especially for educational purposes.
-* **TURK Corpus**: A dataset specifically created for evaluating English sentence simplification tasks. It contains a set of complex sentences with multiple simplified versions, making it useful for fine-tuning models on semantic consistency.
-* **WikiLarge**: A large-scale dataset derived from Wikipedia for text simplification tasks. It contains over 400,000 pairs of complex and simplified sentences.
+* **Plain Text Wikipedia (SimpleEnglish) Dataset**: This dataset contains sentences from Wikipedia articles in both their original and simplified forms. It is an excellent source for training models on text simplification.
+* **Newsela Dataset**: Newsela is a platform providing news articles rewritten at different reading levels, making it a valuable resource for training simplification models, especially for educational purposes.
+* **TURK Dataset**: A dataset specifically created for evaluating English sentence simplification tasks. It contains a set of complex sentences with multiple simplified versions, making it useful for fine-tuning models on semantic consistency.
+* **WikiLarge Dataset**: A large-scale dataset derived from Wikipedia for text simplification tasks. It contains over 400,000 pairs of complex and simplified sentences.
 
 ### AI Methods:
 
@@ -74,7 +74,7 @@ The project could evolve by allowing users to customize the degree of simplifica
 
 The following resources served as inspiration for this project:
 
-* **Wikipedia Simple English**: For providing access to paired complex and simplified sentences that serve as the backbone for the model's training data.
+* **Simple English Wikipedia**: For providing access to paired complex and simplified sentences that serve as the backbone for the model's training data.
 * **Hugging Face's Transformer Library**: For the ready-to-use transformer models, such as T5 and BART, that are fundamental to the architecture of this simplification task.
 * **Newsela**: For the corpus of educational-level adjusted news articles that greatly enhance the capability to simplify text with different levels of readability.
-* **Prior Work in Text Simplification**: Inspiration was drawn from research projects in text summarization and simplification, including work by Saggion et al. and Zhao et al., which emphasized the importance of balancing semantic preservation with linguistic accessibility.
+* **Prior Work in Text Simplification**: Inspiration was drawn from research projects in text summarization and simplification, including work by Saggion et al. (2011) and Zhao et al. (2022), which emphasized the importance of balancing semantic preservation with linguistic accessibility.
