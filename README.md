@@ -64,7 +64,7 @@ The project's success depends on high-quality datasets and robust AI models. Som
 
 ## Challenges
 
-The project does not solve the issue of oversimplifying text or losing important context. It also may not handle highly technical or specialized language accurately. Ethical considerations include ensuring the simplified text does not lose essential nuances, especially in critical fields like law or medicine.
+The proposed project does not solve the issue of oversimplifying text or losing important context. It also may not handle highly technical or specialized language accurately. Ethical considerations include ensuring the simplified text does not lose essential nuances, especially in critical fields like law or medicine.
 
 ## What next?
 
