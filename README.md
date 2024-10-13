@@ -22,8 +22,8 @@ The tool can be used in educational settings, legal or medical contexts, or by a
 
 ### Example 1
 
-original_text = "The committee's decision to postpone the meeting was predicated on the inclement weather forecast."
-simplified_text = simplify_text(original_text)
+original_text = "The committee's decision to postpone the meeting was predicated on the inclement weather forecast."\
+simplified_text = simplify_text(original_text)\
 print(simplified_text)
 
 Desired output: "The committee decided to pospone the meeting, because of the forecast bad weather."
@@ -34,8 +34,8 @@ In this case, the tool would:
 
 ### Example 2
 
-original_text = "The novel's protagonist exhibited an insatiable thirst for knowledge, which often led to self-destructive tendencies."
-simplified_text = simplify_text(original_text)
+original_text = "The novel's protagonist exhibited an insatiable thirst for knowledge, which often led to self-destructive tendencies."\
+simplified_text = simplify_text(original_text)\
 print(simplified_text)
 
 Desired output: "Simplified: The main character of the novel had a constant desire to learn, which sometimes made them harm themselves."
