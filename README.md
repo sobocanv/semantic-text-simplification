@@ -51,7 +51,7 @@ The project's success depends on high-quality datasets and robust AI models. Som
 
 ### Data Sources:
 
-* **[Plain Text Wikipedia (SimpleEnglish) Dataset](https://www.kaggle.com/datasets/ffatty/plain-text-wikipedia-simpleenglish)**: This dataset contains sentences from Wikipedia articles in both their original and simplified forms. It is an excellent source for training models on text simplification.
+* [Plain Text Wikipedia (SimpleEnglish) Dataset](https://www.kaggle.com/datasets/ffatty/plain-text-wikipedia-simpleenglish): This dataset contains sentences from Wikipedia articles in both their original and simplified forms. It is an excellent source for training models on text simplification.
 * **[Newsela Dataset](https://paperswithcode.com/dataset/newsela)**: Newsela is a platform providing news articles rewritten at different reading levels, making it a valuable resource for training simplification models, especially for educational purposes.
 * **[TURKCorpus Dataset](https://paperswithcode.com/dataset/turkcorpus)**: A dataset specifically created for evaluating English sentence simplification tasks. It contains a set of complex sentences with multiple simplified versions, making it useful for fine-tuning models on semantic consistency.
 * **[WikiLarge Dataset](https://paperswithcode.com/dataset/wikilarge)**: A large-scale dataset derived from Wikipedia for text simplification tasks. It contains over 400,000 pairs of complex and simplified sentences.
