@@ -18,7 +18,7 @@ Understanding dense or complex language is a challenge for many, including stude
 
 The tool can be used in educational settings, legal or medical contexts, or by anyone reading dense, technical materials. Users input a piece of text, and the model simplifies it while preserving its meaning. Ideally, this could be integrated into a web app, browser extension, or word processor plugin.
 
-## Example of text simplification
+## Examples of Text Simplification
 
 ### Example 1
 
@@ -28,9 +28,9 @@ print(simplified_text)
 
 Desired output: "The committee decided to pospone the meeting, because of the forecast bad weather."
 
-In this case, the tool:
-* Removes the more formal phrase "was predicated on" and replaces it with "because of."
-* Changes "inclement" to "bad," a simpler, more common word.
+In this case, the tool would:
+* Remove the more formal phrase "was predicated on" and replaces it with "because of."
+* Change "inclement" to "bad," a simpler, more common word.
 
 ### Example 2
 
